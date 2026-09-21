@@ -1,0 +1,34 @@
+[ {
+  "username" : "matteo",
+  "password" : "m",
+  "email" : "matteo@mail.com",
+  "comprensorioDiAppartenenza" : {
+    "proprietario" : {
+      "username" : "M",
+      "password" : "m"
+    },
+    "arrayComuni" : [ "Lumezzane", "Brescia" ]
+  }
+}, {
+  "username" : "francesco",
+  "password" : "f",
+  "email" : "francesco@mail.com",
+  "comprensorioDiAppartenenza" : {
+    "proprietario" : {
+      "username" : "M",
+      "password" : "m"
+    },
+    "arrayComuni" : [ "Lumezzane", "Brescia" ]
+  }
+}, {
+  "username" : "nicolas",
+  "password" : "n",
+  "email" : "nicolas@mail.com",
+  "comprensorioDiAppartenenza" : {
+    "proprietario" : {
+      "username" : "M",
+      "password" : "m"
+    },
+    "arrayComuni" : [ "Lumezzane", "Brescia" ]
+  }
+} ]

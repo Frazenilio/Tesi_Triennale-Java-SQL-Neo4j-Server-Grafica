@@ -1,0 +1,481 @@
+[ {
+  "proprietario" : {
+    "username" : "matteo",
+    "password" : "m",
+    "email" : "matteo@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "lezione di cucina",
+  "richiesta" : "Cucinare una carbonara",
+  "radiceOfferta" : "lezione di cucina",
+  "offerta" : "Cucinare le lasagne",
+  "durataRichiesta" : 10,
+  "durataOfferta" : 5,
+  "stato" : "APERTO"
+}, {
+  "proprietario" : {
+    "username" : "matteo",
+    "password" : "m",
+    "email" : "matteo@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "lezione di cucina",
+  "richiesta" : "Storia della cucina",
+  "radiceOfferta" : "Lezione di lingua",
+  "offerta" : "Lezione di italiano",
+  "durataRichiesta" : 30,
+  "durataOfferta" : 30,
+  "stato" : "APERTO"
+}, {
+  "proprietario" : {
+    "username" : "matteo",
+    "password" : "m",
+    "email" : "matteo@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "Lezione di matematica",
+  "richiesta" : "Lezione di Equazioni differenziali",
+  "radiceOfferta" : "Lezione di matematica",
+  "offerta" : "Lezione di Analisi 2",
+  "durataRichiesta" : 40,
+  "durataOfferta" : 40,
+  "stato" : "APERTO"
+}, {
+  "proprietario" : {
+    "username" : "matteo",
+    "password" : "m",
+    "email" : "matteo@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "lezione di cucina",
+  "richiesta" : "Storia della cucina",
+  "radiceOfferta" : "Lezione di lingua",
+  "offerta" : "Lezione di inglese avnazata",
+  "durataRichiesta" : 10,
+  "durataOfferta" : 5,
+  "stato" : "APERTO"
+}, {
+  "proprietario" : {
+    "username" : "francesco",
+    "password" : "f",
+    "email" : "francesco@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "lezione di cucina",
+  "richiesta" : "Cucinare una carbonara",
+  "radiceOfferta" : "Lezione di lingua",
+  "offerta" : "Lezione di inglese per principianti",
+  "durataRichiesta" : 50,
+  "durataOfferta" : 42,
+  "stato" : "APERTO"
+}, {
+  "proprietario" : {
+    "username" : "nicolas",
+    "password" : "n",
+    "email" : "nicolas@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "lezione di cucina",
+  "richiesta" : "Cucinare le lasagne",
+  "radiceOfferta" : "lezione di cucina",
+  "offerta" : "Cucinare una carbonara",
+  "durataRichiesta" : 5,
+  "durataOfferta" : 10,
+  "stato" : "APERTO"
+}, {
+  "proprietario" : {
+    "username" : "matteo",
+    "password" : "m",
+    "email" : "matteo@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "lezione di cucina",
+  "richiesta" : "Cucinare una carbonara",
+  "radiceOfferta" : "lezione di cucina",
+  "offerta" : "Cucinare le lasagne",
+  "durataRichiesta" : 10,
+  "durataOfferta" : 5,
+  "stato" : "CHIUSO"
+}, {
+  "proprietario" : {
+    "username" : "nicolas",
+    "password" : "n",
+    "email" : "nicolas@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "lezione di cucina",
+  "richiesta" : "Cucinare le lasagne",
+  "radiceOfferta" : "lezione di cucina",
+  "offerta" : "Cucinare una carbonara",
+  "durataRichiesta" : 5,
+  "durataOfferta" : 10,
+  "stato" : "CHIUSO"
+}, {
+  "proprietario" : {
+    "username" : "francesco",
+    "password" : "f",
+    "email" : "francesco@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "lezione di cucina",
+  "richiesta" : "Storia della cucina",
+  "radiceOfferta" : "lezione di cucina",
+  "offerta" : "Cucinare una carbonara",
+  "durataRichiesta" : 10,
+  "durataOfferta" : 10,
+  "stato" : "APERTO"
+}, {
+  "proprietario" : {
+    "username" : "nicolas",
+    "password" : "n",
+    "email" : "nicolas@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "lezione di cucina",
+  "richiesta" : "Cucinare una carbonara",
+  "radiceOfferta" : "Lezione di lingua",
+  "offerta" : "Lezione di italiano",
+  "durataRichiesta" : 10,
+  "durataOfferta" : 10,
+  "stato" : "APERTO"
+}, {
+  "proprietario" : {
+    "username" : "matteo",
+    "password" : "m",
+    "email" : "matteo@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "Lezione di lingua",
+  "richiesta" : "Lezione di italiano",
+  "radiceOfferta" : "lezione di cucina",
+  "offerta" : "Storia della cucina",
+  "durataRichiesta" : 10,
+  "durataOfferta" : 10,
+  "stato" : "APERTO"
+}, {
+  "proprietario" : {
+    "username" : "francesco",
+    "password" : "f",
+    "email" : "francesco@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "lezione di cucina",
+  "richiesta" : "Storia della cucina",
+  "radiceOfferta" : "lezione di cucina",
+  "offerta" : "Cucinare una carbonara",
+  "durataRichiesta" : 10,
+  "durataOfferta" : 10,
+  "stato" : "CHIUSO"
+}, {
+  "proprietario" : {
+    "username" : "nicolas",
+    "password" : "n",
+    "email" : "nicolas@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "lezione di cucina",
+  "richiesta" : "Cucinare una carbonara",
+  "radiceOfferta" : "Lezione di lingua",
+  "offerta" : "Lezione di italiano",
+  "durataRichiesta" : 10,
+  "durataOfferta" : 10,
+  "stato" : "CHIUSO"
+}, {
+  "proprietario" : {
+    "username" : "matteo",
+    "password" : "m",
+    "email" : "matteo@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "Lezione di lingua",
+  "richiesta" : "Lezione di italiano",
+  "radiceOfferta" : "lezione di cucina",
+  "offerta" : "Storia della cucina",
+  "durataRichiesta" : 10,
+  "durataOfferta" : 10,
+  "stato" : "CHIUSO"
+}, {
+  "proprietario" : {
+    "username" : "matteo",
+    "password" : "m",
+    "email" : "matteo@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "Lezione di matematica",
+  "richiesta" : "Lezione di Equazioni differenziali",
+  "radiceOfferta" : "Lezione di matematica",
+  "offerta" : "Lezione di Analisi 2",
+  "durataRichiesta" : 40,
+  "durataOfferta" : 40,
+  "stato" : "RITIRATO"
+}, {
+  "proprietario" : {
+    "username" : "matteo",
+    "password" : "m",
+    "email" : "matteo@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "lezione di cucina",
+  "richiesta" : "Storia della cucina",
+  "radiceOfferta" : "Lezione di lingua",
+  "offerta" : "Lezione di italiano",
+  "durataRichiesta" : 30,
+  "durataOfferta" : 30,
+  "stato" : "RITIRATO"
+}, {
+  "proprietario" : {
+    "username" : "nicolas",
+    "password" : "n",
+    "email" : "nicolas@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "Lezione di matematica",
+  "richiesta" : "Lezione di Equazioni differenziali",
+  "radiceOfferta" : "lezione di cucina",
+  "offerta" : "Cucinare le lasagne",
+  "durataRichiesta" : 17,
+  "durataOfferta" : 17,
+  "stato" : "APERTO"
+}, {
+  "proprietario" : {
+    "username" : "nicolas",
+    "password" : "n",
+    "email" : "nicolas@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "Lezione di matematica",
+  "richiesta" : "Lezione di Analisi 2",
+  "radiceOfferta" : "Lezione di lingua",
+  "offerta" : "Lezione di inglese avnazata",
+  "durataRichiesta" : 13,
+  "durataOfferta" : 14,
+  "stato" : "APERTO"
+}, {
+  "proprietario" : {
+    "username" : "nicolas",
+    "password" : "n",
+    "email" : "nicolas@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "Lezione di matematica",
+  "richiesta" : "Lezione di Analisi 1",
+  "radiceOfferta" : "Lezione di lingua",
+  "offerta" : "Lezione di italiano",
+  "durataRichiesta" : 19,
+  "durataOfferta" : 19,
+  "stato" : "APERTO"
+}, {
+  "proprietario" : {
+    "username" : "francesco",
+    "password" : "f",
+    "email" : "francesco@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "lezione di cucina",
+  "richiesta" : "Cucinare le lasagne",
+  "radiceOfferta" : "Lezione di matematica",
+  "offerta" : "Lezione di Equazioni differenziali",
+  "durataRichiesta" : 3,
+  "durataOfferta" : 3,
+  "stato" : "APERTO"
+}, {
+  "proprietario" : {
+    "username" : "francesco",
+    "password" : "f",
+    "email" : "francesco@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "Lezione di matematica",
+  "richiesta" : "Lezione di Analisi 2",
+  "radiceOfferta" : "Lezione di lingua",
+  "offerta" : "Lezione di inglese per principianti",
+  "durataRichiesta" : 7,
+  "durataOfferta" : 12,
+  "stato" : "APERTO"
+}, {
+  "proprietario" : {
+    "username" : "francesco",
+    "password" : "f",
+    "email" : "francesco@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "Lezione di lingua",
+  "richiesta" : "Lezione di inglese avnazata",
+  "radiceOfferta" : "lezione di cucina",
+  "offerta" : "Cucinare una carbonara",
+  "durataRichiesta" : 11,
+  "durataOfferta" : 21,
+  "stato" : "APERTO"
+}, {
+  "proprietario" : {
+    "username" : "matteo",
+    "password" : "m",
+    "email" : "matteo@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "lezione di cucina",
+  "richiesta" : "Cucinare le lasagne",
+  "radiceOfferta" : "Lezione di matematica",
+  "offerta" : "Lezione di Equazioni differenziali",
+  "durataRichiesta" : 23,
+  "durataOfferta" : 23,
+  "stato" : "APERTO"
+}, {
+  "proprietario" : {
+    "username" : "matteo",
+    "password" : "m",
+    "email" : "matteo@mail.com",
+    "comprensorioDiAppartenenza" : {
+      "proprietario" : {
+        "username" : "M",
+        "password" : "m"
+      },
+      "arrayComuni" : [ "Lumezzane", "Brescia" ]
+    }
+  },
+  "radiceRichiesta" : "Lezione di matematica",
+  "richiesta" : "Lezione di Analisi 2",
+  "radiceOfferta" : "Lezione di matematica",
+  "offerta" : "Lezione di Equazioni differenziali",
+  "durataRichiesta" : 27,
+  "durataOfferta" : 27,
+  "stato" : "APERTO"
+} ]

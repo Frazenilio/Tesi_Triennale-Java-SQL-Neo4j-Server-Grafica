@@ -1,0 +1,19 @@
+[ {
+  "proprietario" : {
+    "username" : "M",
+    "password" : "m"
+  },
+  "arrayComuni" : [ "Lumezzane", "Brescia" ]
+}, {
+  "proprietario" : {
+    "username" : "M",
+    "password" : "m"
+  },
+  "arrayComuni" : [ "Milano", "Bergamo" ]
+}, {
+  "proprietario" : {
+    "username" : "Nicol",
+    "password" : "n"
+  },
+  "arrayComuni" : [ "Napoli", "Melfi" ]
+} ]
